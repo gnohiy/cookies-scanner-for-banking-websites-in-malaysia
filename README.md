@@ -5,3 +5,9 @@ This is a cookies scanner specifically designed for the banking websites in Mala
 3. Open your Chrome browser and access the extension management page (chrome://extensions)
 4. Click on the "Load unpacked" button and select the extracted folder
 5. Look for the extension and run it
+
+Preview:
+
+![image](https://github.com/gnohiy/cookies-scanner-for-banking-websites-in-malaysia/assets/105278322/ca188151-9c30-4e00-b684-561e9fd6247f)
+
+![image](https://github.com/gnohiy/cookies-scanner-for-banking-websites-in-malaysia/assets/105278322/ca378c18-5337-4b70-97a0-66a0864e71f8)
